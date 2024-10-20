@@ -1,6 +1,6 @@
 #nav-bar {
     width:100vw;
-    height:3em;
+    height:5em;
     background-color: var(--transparent);
     display: flex;
     flex-direction: row;
@@ -9,20 +9,20 @@
 }
 
 #nav-logo {
-    height: 1em;
+    height: 2em;
     position:relative;
     left:1em;
 }
 
 #hamburger {
-    height:1.5em;
+    height:2.5em;
     position: relative;
-    right:1em;
+    right:1.5em;
     filter: var(--svg-color);
 }
 
 #theme-icon {
-    height: 1.5em;
+    height: 2.5em;
     position:relative;
-    right:2em;
+    right:2.5em;
 }
