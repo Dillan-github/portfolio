@@ -13,7 +13,6 @@
   --svg-color: invert(94%) sepia(0%) saturate(1024%) hue-rotate(170deg) brightness(86%) contrast(123%);
   --background: var(--black);
   --transparent: #ffffff0a;
-
   --text-primary: var(--white);
   --text-secondary: grey;
   --accent: darkred;

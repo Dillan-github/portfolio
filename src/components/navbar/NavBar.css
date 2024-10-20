@@ -17,12 +17,19 @@
 #hamburger {
     height:2em;
     position: relative;
-    right:1.5em;
+    padding-right:1.5em;
     filter: var(--svg-color);
 }
 
 #theme-icon {
     height: 2em;
     position:relative;
-    right:2.5em;
+    padding-right:1.5em;
+}
+
+#icon-menu-container {
+    width:fit-content;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
 }
