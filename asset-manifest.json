@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.53256f4d.css",
-    "main.js": "/portfolio/static/js/main.f33d9094.js",
+    "main.css": "/portfolio/static/css/main.a4927957.css",
+    "main.js": "/portfolio/static/js/main.3bf2f8fb.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
     "static/media/Black_Logo_SVG.svg": "/portfolio/static/media/Black_Logo_SVG.91dcd0404a2afdcee679127118e32040.svg",
     "static/media/White_Logo_SVG.svg": "/portfolio/static/media/White_Logo_SVG.44c88960207830e37000a6db485b6517.svg",
     "static/media/sun_icon.svg": "/portfolio/static/media/sun_icon.211cd3988ac55cbf0faf50e7be16cf4e.svg",
     "static/media/hamburger_menu.svg": "/portfolio/static/media/hamburger_menu.fd6a0e69339d15d1a41b46d647f521a5.svg",
-    "static/media/moon_icon.svg": "/portfolio/static/media/moon_icon.8eaca44b53c75b78da4543c2412046af.svg",
     "index.html": "/portfolio/index.html",
-    "main.53256f4d.css.map": "/portfolio/static/css/main.53256f4d.css.map",
-    "main.f33d9094.js.map": "/portfolio/static/js/main.f33d9094.js.map",
+    "main.a4927957.css.map": "/portfolio/static/css/main.a4927957.css.map",
+    "main.3bf2f8fb.js.map": "/portfolio/static/js/main.3bf2f8fb.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.53256f4d.css",
-    "static/js/main.f33d9094.js"
+    "static/css/main.a4927957.css",
+    "static/js/main.3bf2f8fb.js"
   ]
 }
